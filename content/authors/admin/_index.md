@@ -1,7 +1,7 @@
 ---
 title: Vinita Parekh
 role: Professor of Speech Communication
-avatar_filename: ""
+avatar_filename: vinita.jpg
 organizations:
   - name: Stanford University
     url: ""
